@@ -1,6 +1,5 @@
 # ituneMusic(Search music by Artit name)
 
-Deployed Site Link: [itune Music ](https://virtual-restaurant-waiter.netlify.com/)
 
 ### About
 
@@ -8,11 +7,16 @@ Deployed Site Link: [itune Music ](https://virtual-restaurant-waiter.netlify.com
 * Use API to fetch the data
 
 ### LANDING PAGE
+![Landing page](./images.1.png)
 
 
+### MUSIC
+![Landing page](./images.2.png)
 
-### TABLE BOOK 
+
+### SEACH INPUT
+![Landing page](./images.3.png)
 
 
-
-### ADMIN DETAILS PAGE
+### SEACH RESULT
+![Landing page](./images.4.png)
